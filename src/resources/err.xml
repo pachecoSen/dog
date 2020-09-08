@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ERR>
+    <PATH>
+        <NoPath>Directory or File Path does not exist.</NoPath>
+    </PATH>
+    <COMMANDS>
+        <NoCommand>The specified command is incorrect.</NoCommand>
+        <FoundCommand>The specified command not found.</FoundCommand>
+        <WrongParameter>Wrong statement parameter, use HELP parameter to get specs</WrongParameter>
+    </COMMANDS>
+</ERR>

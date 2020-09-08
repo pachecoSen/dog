@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MAKE>
+    <htaccess>
+        <APACHE>
+            <row>RewriteEngine On</row>
+            <row>RewriteCond %{REQUEST_FILENAME} !-f</row>
+            <row>RewriteCond %{REQUEST_FILENAME} !-d</row>
+            <row>RewriteRule ^ index.php [QSA,L]</row>
+        </APACHE>
+        <PHP>
+            <display_errors>php_flag display_errors {{display_errors}}</display_errors>
+        </PHP>
+    </htaccess>
+</MAKE>

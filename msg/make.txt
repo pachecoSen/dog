@@ -1,0 +1,2 @@
+..:::DOG - Assistance tool:::..
+dog make [help | htaccess]

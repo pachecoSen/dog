@@ -1,0 +1,2 @@
+MSG: No arguments or parameters
+Solution, Assign arguments and parameters, or for more information use the HELP argument
